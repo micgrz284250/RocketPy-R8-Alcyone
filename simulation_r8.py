@@ -362,7 +362,8 @@ def print_summary(flight):
     )
     print(
         f"Rail stability >= {EUROC_MIN_OUT_OF_RAIL_STABILITY:.1f} cal: "
-        f"{flight.out_of_rail_stability_margin >= EUROC_MIN_OUT_OF_RAIL_STABILITY}"
+        f"{flight.out_of_rail_stability_margin >= EUROC_MIN_OUT_OF_RAIL_STABILITY} "
+        f"({flight.out_of_rail_stability_margin:.2f})"
     )
     print(
         f"Impact distance <= {EUROC_LAUNCH_SITE_RADIUS:.0f} m: "
