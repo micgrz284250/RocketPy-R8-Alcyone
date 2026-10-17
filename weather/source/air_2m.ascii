@@ -1,0 +1,51 @@
+Dataset {
+    Grid {
+     ARRAY:
+        Float32 air[time = 2][lat = 2][lon = 2];
+     MAPS:
+        Float64 time[time = 2];
+        Float32 lat[lat = 2];
+        Float32 lon[lon = 2];
+    } air;
+    Grid {
+     ARRAY:
+        Int16 valid_yr_count[time = 2][lat = 2][lon = 2];
+     MAPS:
+        Float64 time[time = 2];
+        Float32 lat[lat = 2];
+        Float32 lon[lon = 2];
+    } valid_yr_count;
+} Datasets/ncep.reanalysis/Monthlies/surface_gauss/air.2m.4Xday.ltm.1991-2020.nc;
+---------------------------------------------
+air.air[2][2][2]
+[0][0], 290.10367, 288.624
+[0][1], 292.00067, 291.03
+[1][0], 289.27332, 285.21432
+[1][1], 291.197, 286.88
+
+air.time[2]
+-1.576278E7, -1.5762774E7
+
+air.lat[2]
+40.9517, 39.047
+
+air.lon[2]
+350.625, 352.5
+
+
+valid_yr_count.valid_yr_count[2][2][2]
+[0][0], 30, 30
+[0][1], 30, 30
+[1][0], 30, 30
+[1][1], 30, 30
+
+valid_yr_count.time[2]
+-1.576278E7, -1.5762774E7
+
+valid_yr_count.lat[2]
+40.9517, 39.047
+
+valid_yr_count.lon[2]
+350.625, 352.5
+
+

@@ -1,0 +1,29 @@
+{
+  "non_weather_python_ast_unchanged": true,
+  "notebook_executable_code_unchanged": true,
+  "unchanged_files_sha256": {
+    "NOVA.eng": "8ce3e00e6627968c4b13fac406478c7390400e53ab867e0f50fdec7642a57c6c",
+    "drag_curve.csv": "3c57cb318a136011bc441c7cc597cd4fd857d126719080cef513e6c67729f4ac",
+    "requirements.txt": "2991c02c2725be1caa53d3d20a712a9b63612de0e03f718cc0493b027a04e577",
+    "LIGHTER_NOSECONE_CHANGE.md": "064d746de65ff70f348c708a3dd9435ff8f895e454af1a13b856429fba78fbc6",
+    "EUROC_CONDITIONS.md": "0cc2fcdfef97a53715ca0956a8511e7b6427018fd4d9ef7f462109a56da3853c",
+    ".gitignore": "3ef9054d7f741ef8e08216fb35d498f848c0fb7661a51179ab5291c004ac4b74"
+  },
+  "weather_datetime_utc": "2026-10-18T13:00:00+00:00",
+  "original_launch_coordinates_and_elevation_preserved": true,
+  "weather_profiles_finite_and_pressure_monotonic": true,
+  "explicit_wind_variants_and_original_limit_validated": true,
+  "results": {
+    "loaded_mass_kg": 51.014,
+    "initial_cg_m": 2.6364753298663985,
+    "apogee_agl_m": 3213.5319700561517,
+    "out_of_rail_velocity_mps": 32.51288562582814,
+    "out_of_rail_stability_cal": 2.7017385151683295,
+    "impact_distance_m": 1002.0150203093292
+  },
+  "notebook_executed_without_errors": true,
+  "refreshed_plot_count": 17,
+  "source_file_hashes_verified": true,
+  "validation_scope": "Historical weather-update validation before the British English translation; document hashes refer to that earlier version.",
+  "translation_validation_file": "translation_validation.json"
+}

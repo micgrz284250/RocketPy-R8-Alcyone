@@ -1,0 +1,2 @@
+rocketpy==1.12.1
+CoolProp==8.0.0

@@ -1,0 +1,72 @@
+[
+  {
+    "file": "air.das",
+    "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/ncep.reanalysis/Monthlies/pressure/air.4Xday.ltm.1991-2020.nc.das",
+    "sha256": "a34ca1a1309d4b0441eca8baebef0ad1604a95fcf354c48b2fc60d0c449a6483"
+  },
+  {
+    "file": "air.ascii",
+    "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/ncep.reanalysis/Monthlies/pressure/air.4Xday.ltm.1991-2020.nc.ascii?air[1162:1:1163][0:1:16][20:1:21][140:1:141],valid_yr_count[1162:1:1163][0:1:16][20:1:21][140:1:141]",
+    "sha256": "fc958800193388f2a660292baa6cd77782ec59a86d374f1aa08b6bee0b8d1f82"
+  },
+  {
+    "file": "hgt.das",
+    "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/ncep.reanalysis/Monthlies/pressure/hgt.4Xday.ltm.1991-2020.nc.das",
+    "sha256": "e64885e5c2e8158a83f9bf8941593ed6500f0421b3ad19f004e68f8eb82f3399"
+  },
+  {
+    "file": "hgt.ascii",
+    "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/ncep.reanalysis/Monthlies/pressure/hgt.4Xday.ltm.1991-2020.nc.ascii?hgt[1162:1:1163][0:1:16][20:1:21][140:1:141],valid_yr_count[1162:1:1163][0:1:16][20:1:21][140:1:141]",
+    "sha256": "29ea04c0ed725b1c1ec9852a685ba49249fb96ec62aa93cd3a39dddc1b5da0a0"
+  },
+  {
+    "file": "uwnd.das",
+    "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/ncep.reanalysis/Monthlies/pressure/uwnd.4Xday.ltm.1991-2020.nc.das",
+    "sha256": "c7a858c087bd9e7976bcdd2ae519fb0e4b7e4caf27596413136973f6a62c940a"
+  },
+  {
+    "file": "uwnd.ascii",
+    "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/ncep.reanalysis/Monthlies/pressure/uwnd.4Xday.ltm.1991-2020.nc.ascii?uwnd[1162:1:1163][0:1:16][20:1:21][140:1:141]",
+    "sha256": "295d23074933dd76b50c2057d3f1be561898de86be8213100febad3081187ebb"
+  },
+  {
+    "file": "vwnd.das",
+    "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/ncep.reanalysis/Monthlies/pressure/vwnd.4Xday.ltm.1991-2020.nc.das",
+    "sha256": "ac2f2e901b5c6b3d1ca9e8e27eee4766d9af5323d3f3cfaa682214ae371ae7e1"
+  },
+  {
+    "file": "vwnd.ascii",
+    "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/ncep.reanalysis/Monthlies/pressure/vwnd.4Xday.ltm.1991-2020.nc.ascii?vwnd[1162:1:1163][0:1:16][20:1:21][140:1:141]",
+    "sha256": "3fa14c251384b953d6b51a9877bd24a6e14a837f96255abc911a6c9f56fa3c2e"
+  },
+  {
+    "file": "air_2m.das",
+    "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/ncep.reanalysis/Monthlies/surface_gauss/air.2m.4Xday.ltm.1991-2020.nc.das",
+    "sha256": "0e8f79933652558dd6ecac90ac2c5b8a511b820cef1eeb2f7fe6db5880155ca4"
+  },
+  {
+    "file": "air_2m.ascii",
+    "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/ncep.reanalysis/Monthlies/surface_gauss/air.2m.4Xday.ltm.1991-2020.nc.ascii?air[1162:1:1163][25:1:26][187:1:188],valid_yr_count[1162:1:1163][25:1:26][187:1:188]",
+    "sha256": "7fc4ed8d5fdce616a8d047f6802cbb6d0b557da2bab2dc029943b83dbffa3b7f"
+  },
+  {
+    "file": "uwnd_10m.das",
+    "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/ncep.reanalysis/Monthlies/surface_gauss/uwnd.10m.4Xday.ltm.1991-2020.nc.das",
+    "sha256": "37fe98b76c09c7c370eb99c5829bd13cef26e4f31bbeb4e7e9960b6c60949e37"
+  },
+  {
+    "file": "uwnd_10m.ascii",
+    "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/ncep.reanalysis/Monthlies/surface_gauss/uwnd.10m.4Xday.ltm.1991-2020.nc.ascii?uwnd[1162:1:1163][25:1:26][187:1:188],valid_yr_count[1162:1:1163][25:1:26][187:1:188]",
+    "sha256": "a8072be9e76288bcd02655dd2246c22e783176a9f0b387b6758c06d849eccad6"
+  },
+  {
+    "file": "vwnd_10m.das",
+    "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/ncep.reanalysis/Monthlies/surface_gauss/vwnd.10m.4Xday.ltm.1991-2020.nc.das",
+    "sha256": "3faa99ac036a1cdb53e72de58674d42f296fd61c323ef82542751215798e93a4"
+  },
+  {
+    "file": "vwnd_10m.ascii",
+    "url": "https://psl.noaa.gov/thredds/dodsC/Datasets/ncep.reanalysis/Monthlies/surface_gauss/vwnd.10m.4Xday.ltm.1991-2020.nc.ascii?vwnd[1162:1:1163][25:1:26][187:1:188],valid_yr_count[1162:1:1163][25:1:26][187:1:188]",
+    "sha256": "7b857608dbb0928a1e53b396d216b0c8aff956571140112735e978838df7ecae"
+  }
+]
