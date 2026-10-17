@@ -345,6 +345,7 @@ def print_summary(flight):
         f"Surface wind:         {wind_speed:.1f} m/s from {wind_from:.0f} deg"
     )
     print(f"Launch rail length:   {LAUNCH_RAIL_LENGTH:.2f} m")
+    print(f"Empty mass:           {flight.rocket.dry_mass:.3f} kg")
     print(f"Loaded mass:          {flight.rocket.total_mass(0):.3f} kg")
     print(f"Initial CG:           {flight.rocket.center_of_mass(0):.3f} m")
     print(f"Apogee AGL:           {flight.apogee - flight.env.elevation:.1f} m")
